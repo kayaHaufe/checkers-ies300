@@ -1,0 +1,14 @@
+html {
+    font-family: 'Josefin Sans';
+}
+body {
+    background-color: #17C1A3;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+#time {
+    font-size: 16px;
+    font-weight: bold;
+}
